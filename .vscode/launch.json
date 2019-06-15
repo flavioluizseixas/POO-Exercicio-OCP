@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EmergencyRoomProcess",
+            "request": "launch",
+            "mainClass": "hospital.EmergencyRoomProcess",
+            "projectName": "OpenClosedPrinciple"
+        }
+    ]
+}
